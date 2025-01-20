@@ -60,9 +60,43 @@
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">Geospatial Visualization</h3>
+        <h3 align="center">ADHD ProReading Chrome Plugin</h3>
         <div align="center">
-          <img src="project-screenshot-2.png" width="300" alt="Geospatial Visualization Screenshot"/>
+          <img src="adhd-plugin-screenshot.png" width="300" alt="ADHD ProReading Plugin Screenshot"/>
+          <p>
+            <a href="https://github.com/ruilinsun/adhd-proreading">
+              <img src="https://img.shields.io/badge/View_Project-4e4e4e?style=for-the-badge&logo=github" alt="View Project"/>
+            </a>
+            <a href="https://chrome.google.com/webstore/detail/your-plugin-id">
+              <img src="https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Store"/>
+            </a>
+          </p>
+          <p><strong>Tech Stack:</strong> JavaScript, Chrome Extensions API, React</p>
+          <p>A Chrome extension designed to enhance reading experience for ADHD users, featuring customizable text formatting, focus mode, and reading progress tracking.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Petavator Customize Website</h3>
+        <div align="center">
+          <img src="petavator-screenshot.png" width="300" alt="Petavator Customize Screenshot"/>
+          <p>
+            <a href="https://github.com/ruilinsun/petavator-customize">
+              <img src="https://img.shields.io/badge/View_Project-4e4e4e?style=for-the-badge&logo=github" alt="View Project"/>
+            </a>
+            <a href="https://petavator-customize.demo.link">
+              <img src="https://img.shields.io/badge/Live_Demo-FF3850?style=for-the-badge&logo=html5" alt="Live Demo"/>
+            </a>
+          </p>
+          <p><strong>Tech Stack:</strong> React, Three.js, Styled-Components</p>
+          <p>An interactive 3D pet avatar customization platform, featuring real-time preview, customizable features, and social sharing capabilities.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Multimedia Content Management System</h3>
+        <div align="center">
+          <img src="project-screenshot-2.png" width="300" alt="Multimedia Content Management System Screenshot"/>
           <p>
             <a href="https://github.com/ruilinsun/geospatial-visualization">
               <img src="https://img.shields.io/badge/View_Project-4e4e4e?style=for-the-badge&logo=github" alt="View Project"/>
@@ -72,7 +106,7 @@
             </a>
           </p>
           <p><strong>Tech Stack:</strong> React, D3.js, TypeScript</p>
-          <p>Interactive visualization tool for geospatial data analysis.</p>
+          <p>Multimedia Content Management System.</p>
         </div>
       </td>
     </tr>
@@ -103,7 +137,6 @@ The sun rises at <b>07:56</b> and sets at <b>16:47</b>.</p>
 <p>
   <a href="https://github.com/ruilinsun"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white"/></a>
   <a href="https://linkedin.com/in/ruilinsun"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/ruilinsun"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white"/></a>
   <a href="https://ruilinsun.dev"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-F24E1E?logo=figma&logoColor=white"/></a>
 </p>
 
