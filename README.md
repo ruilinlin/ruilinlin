@@ -48,11 +48,11 @@
         <div align="center">
           <img src="project-screenshot.png" width="300" alt="Pet Social App Screenshot"/>
           <p>
-            <a href="https://github.com/ruilinsun/pet-social-app">
+            <a href="https://github.com/ruilinlin/bark_buddy">
               <img src="https://img.shields.io/badge/View_Project-4e4e4e?style=for-the-badge&logo=github" alt="View Project"/>
             </a>
-            <a href="https://pet-social-app.demo.link">
-              <img src="https://img.shields.io/badge/Live_Demo-FF3850?style=for-the-badge&logo=html5" alt="Live Demo"/>
+            <a href="https://ruilinsun.myportfolio.com/social-application-for-pet-owner">
+              <img src="https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
             </a>
           </p>
           <p><strong>Tech Stack:</strong> React, Node.js, Firebase</p>
@@ -64,7 +64,7 @@
         <div align="center">
           <img src="adhd-plugin-screenshot.png" width="300" alt="ADHD ProReading Plugin Screenshot"/>
           <p>
-            <a href="https://github.com/ruilinsun/adhd-proreading">
+            <a href="https://github.com/ruilinlin/adhd-reading-plugin">
               <img src="https://img.shields.io/badge/View_Project-4e4e4e?style=for-the-badge&logo=github" alt="View Project"/>
             </a>
             <a href="https://chrome.google.com/webstore/detail/your-plugin-id">
@@ -82,7 +82,7 @@
         <div align="center">
           <img src="petavator-screenshot.png" width="300" alt="Petavator Customize Screenshot"/>
           <p>
-            <a href="https://github.com/ruilinsun/petavator-customize">
+            <a href="https://github.com/ruilinlin/PetAvatarGenerator">
               <img src="https://img.shields.io/badge/View_Project-4e4e4e?style=for-the-badge&logo=github" alt="View Project"/>
             </a>
             <a href="https://petavator-customize.demo.link">
@@ -114,7 +114,7 @@
 </div>
 
 <!-- 编码统计 -->
-<div align="center">
+<!-- <div align="center">
   <table>
     <tr>
       <td align="center">
@@ -125,7 +125,7 @@
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 <!-- Weather in Vancouver -->
 <h3>Current Weather in Vancouver 🌧️</h3>
