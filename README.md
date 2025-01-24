@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Ruilin Sun, a <b>Front-End Developer</b> from 🌏, currently residing in <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="13"/> <b>Vancouver, Canada</b>. </p>
+<p>Welcome to my page! </br> I'm Ruilin Sun, a <b>Software Developer</b> from 🌏, currently residing in <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="13"/> <b>Vancouver, Canada</b>. </p>
 
 <!-- 技能概览部分 -->
 <h2>🚀 Professional Skills</h2>
@@ -10,6 +10,7 @@
 ![Frontend Development](https://progress-bar.dev/90/?title=Frontend&width=500&color=4B0082)
 ![AI Deployment](https://progress-bar.dev/85/?title=AI-Deploy&width=500&color=0E2F44)
 ![UI Design](https://progress-bar.dev/80/?title=UI-Design&width=500&color=FF69B4)
+![Cloud Computing](https://progress-bar.dev/75/?title=Cloud-Computing&width=500&color=008080)
 
 </div>
 
@@ -142,5 +143,5 @@ The sun rises at <b>07:56</b> and sets at <b>16:47</b>.</p>
 
 ---
 
-<p align="center">This <i>README</i> file is updated <b>every 3 hours</b> via GitHub Actions!</p>
-<p align="center"><img src="https://github.com/ruilinsun/ruilinsun/workflows/README%20build/badge.svg" /></p>
+<!-- <p align="center">This <i>README</i> file is updated <b>every 3 hours</b> via GitHub Actions!</p>
+<p align="center"><img src="https://github.com/ruilinsun/ruilinsun/workflows/README%20build/badge.svg" /></p> -->
