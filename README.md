@@ -121,8 +121,6 @@
   </table>
 </div>
 
-<
-
 <!-- ==================== 下半部分：跨学科领域 ==================== -->
 <h2 align="center">🌐 Interdisciplinary Expertise</h2>
 
@@ -130,9 +128,18 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://img.icons8.com/ios-filled/50/2E75B6/3d-map.png" width="50"/><br><b>Geospatial Intelligence</b></td>
-      <td align="center"><img src="https://img.icons8.com/ios-filled/50/32CD32/city-planning.png" width="50"/><br><b>Urban Computing</b></td>
-      <td align="center"><img src="https://img.icons8.com/ios-filled/50/FF6F00/bim.png" width="50"/><br><b>Architectural Tech</b></td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Geospatial-2E75B6?style=for-the-badge&logo=google-earth&logoColor=white" width="120"/><br>
+        <b>Geospatial Intelligence</b>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Urban-32CD32?style=for-the-badge&logo=city&logoColor=white" width="120"/><br>
+        <b>Urban Computing</b>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Architecture-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white" width="120"/><br>
+        <b>Architectural Tech</b>
+      </td>
     </tr>
   </table>
 </div>
@@ -154,7 +161,6 @@
 <h2>🏙️ Featured Urban-Tech Projects</h2>
 <div align="center">
   <table>
-    <!-- 项目1：GIS自动化建模 -->
     <tr>
       <td width="50%">
         <h3 align="center">UrbanFlow Optimizer</h3>
@@ -175,8 +181,6 @@
           <p>Automated traffic modeling plugin for ArcGIS Pro, processing real-time Vancouver traffic data to generate congestion heatmaps and signal optimization plans.</p>
         </div>
       </td>
-
-      <!-- 项目2：机器学习风险预测 -->
       <td width="50%">
         <h3 align="center">FloodRisk AI</h3>
         <div align="center">
@@ -194,8 +198,6 @@
         </div>
       </td>
     </tr>
-
-    <!-- 项目3：3D城市建模 -->
     <tr>
       <td width="50%">
         <h3 align="center">CityBuilder Pro</h3>
@@ -213,8 +215,6 @@
           <p>Parametric 3D city modeling tool converting CAD files to GIS-compatible 3D urban models with automated LOD generation.</p>
         </div>
       </td>
-
-      <!-- 项目4：公共服务优化 -->
       <td width="50%">
         <h3 align="center">Community Mapper</h3>
         <div align="center">
@@ -232,9 +232,9 @@
         </div>
       </td>
     </tr>
-
   </table>
 </div>
+
 <!-- Contact Information -->
 <h3>📫 Where to find me</h3>
 <p>
