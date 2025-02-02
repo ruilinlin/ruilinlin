@@ -86,12 +86,12 @@
             <a href="https://github.com/ruilinlin/PetAvatarGenerator">
               <img src="https://img.shields.io/badge/View_Project-4e4e4e?style=for-the-badge&logo=github" alt="View Project"/>
             </a>
-            <a href="https://petavator-customize.demo.link">
-              <img src="https://img.shields.io/badge/Live_Demo-FF3850?style=for-the-badge&logo=html5" alt="Live Demo"/>
+  <a href="https://www.youtube.com/watch?v=你的视频ID">
+    <img src="video-thumbnail.png" width="300" alt="Watch Demo"/> 
             </a>
           </p>
-          <p><strong>Tech Stack:</strong> React, Three.js, Styled-Components</p>
-          <p>An interactive 3D pet avatar customization platform, featuring real-time preview, customizable features, and social sharing capabilities.</p>
+          <p><strong>Tech Stack:</strong> React, Next.js, Styled-Components, Node.js, Kubernetes</p>
+          <p>A sophisticated AI-powered platform for generating personalized pet avatars using state-of-the-art diffusion models.</p>
         </div>
       </td>
       <td width="50%">
@@ -145,3 +145,9 @@ The sun rises at <b>07:56</b> and sets at <b>16:47</b>.</p>
 
 <!-- <p align="center">This <i>README</i> file is updated <b>every 3 hours</b> via GitHub Actions!</p>
 <p align="center"><img src="https://github.com/ruilinsun/ruilinsun/workflows/README%20build/badge.svg" /></p> -->
+
+<div align="center">
+  <video width="300" controls>
+    <source src="demo.mp4" type="video/mp4">
+  </video>
+</div>
