@@ -87,7 +87,7 @@
               <img src="https://img.shields.io/badge/View_Project-4e4e4e?style=for-the-badge&logo=github" alt="View Project"/>
             </a>
   <a href="https://www.youtube.com/watch?v=你的视频ID">
-    <img src="video-thumbnail.png" width="300" alt="Watch Demo"/> 
+    <img src="video-thumbnail.png" width="300" alt="Live Demo"/> 
             </a>
           </p>
           <p><strong>Tech Stack:</strong> React, Next.js, Styled-Components, Node.js, Kubernetes</p>
