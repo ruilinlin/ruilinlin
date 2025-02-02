@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Ruilin Sun, a <b>Software Developer</b> from 🌏, currently residing in <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="13"/> <b>Vancouver, Canada</b>. I have a background in both Architecture and Computer Science, and I currently work as a developer. My expertise lies in frontend development, AI deployment, and cloud computing.
+<p>Welcome to my page! </br> I'm Ruilin Sun, a <b>Software Developer</b> from 🌏, currently residing in <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="13"/> <b>Vancouver, Canada</b>. I have a background in both Architecture and Computer Science, and I currently work as a developer. My expertise lies in <b>frontend development</b>, <b>AI deployment</b>, and <b>cloud computing</b>.
 
 <!-- 🚀 Professional Skills -->
 <h2 align="center">🚀 Professional Skills</h2>
@@ -9,16 +9,9 @@
 
   <table>
     <tr>
-      <td align="center"><img src="https://img.icons8.com/ios-filled/50/4B0082/react.png" width="50"/><br><b>Frontend Development</b></td>
+      <td align="center"><img src="https://img.icons8.com/ios-filled/50/4B0082/react-native.png" width="50"/><br><b>Frontend Development</b></td>
       <td align="center"><img src="https://img.icons8.com/ios-filled/50/0E2F44/artificial-intelligence.png" width="50"/><br><b>AI Deployment</b></td>
       <td align="center"><img src="https://img.icons8.com/ios-filled/50/FF69B4/design.png" width="50"/><br><b>UI/UX Design</b></td>
-    </tr>
-  </table>
-
-  <br>
-
-  <table>
-    <tr>
       <td align="center"><img src="https://img.icons8.com/ios-filled/50/008080/cloud.png" width="50"/><br><b>Cloud Computing</b></td>
       <td align="center"><img src="https://img.icons8.com/ios-filled/50/FFA500/bar-chart.png" width="50"/><br><b>Data Visualization</b></td>
     </tr>
