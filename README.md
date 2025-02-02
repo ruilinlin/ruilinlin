@@ -20,28 +20,30 @@
 </div>
 
 <!-- 详细技能树 -->
+<p> Here is my tech stack details: </p>
 <details>
-<summary>💻 Tech Stack Details</summary>
+<summary><b>💻 Tech Stack Details</b></summary>
 
 <div align="center">
 
-|                                          Frontend Development                                          |                                            Cloud & DevOps                                            |                                                         UI/UX Design                                                          |
-| :----------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
-|        ![React](https://img.shields.io/badge/React-Expert-blue?style=for-the-badge&logo=react)         |     ![AWS](https://img.shields.io/badge/AWS-Advanced-orange?style=for-the-badge&logo=amazon-aws)     |                  ![Figma](https://img.shields.io/badge/Figma-Advanced-purple?style=for-the-badge&logo=figma)                  |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-Expert-blue?style=for-the-badge&logo=typescript) |     ![Docker](https://img.shields.io/badge/Docker-Advanced-blue?style=for-the-badge&logo=docker)     | ![Styled Components](https://img.shields.io/badge/Styled_Components-Advanced-pink?style=for-the-badge&logo=styled-components) |
-|      ![Redux](https://img.shields.io/badge/Redux-Advanced-purple?style=for-the-badge&logo=redux)       | ![Firebase](https://img.shields.io/badge/Firebase-Advanced-yellow?style=for-the-badge&logo=firebase) |                   ![Sass](https://img.shields.io/badge/Sass-Advanced-cc6699?style=for-the-badge&logo=sass)                    |
+|                                          Frontend Development                                          |                                              Cloud & DevOps                                              |                                                         UI/UX Design                                                          |
+| :----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
+|        ![React](https://img.shields.io/badge/React-Expert-blue?style=for-the-badge&logo=react)         |       ![AWS](https://img.shields.io/badge/AWS-Advanced-orange?style=for-the-badge&logo=amazon-aws)       |                  ![Figma](https://img.shields.io/badge/Figma-Advanced-purple?style=for-the-badge&logo=figma)                  |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-Expert-blue?style=for-the-badge&logo=typescript) |       ![Docker](https://img.shields.io/badge/Docker-Advanced-blue?style=for-the-badge&logo=docker)       |          ![Material UI](https://img.shields.io/badge/Material_UI-Advanced-deepskyblue?style=for-the-badge&logo=mui)           |
+|     ![Next.js](https://img.shields.io/badge/Next.js-Expert-black?style=for-the-badge&logo=next.js)     | ![Kubernetes](https://img.shields.io/badge/Kubernetes-Advanced-blue?style=for-the-badge&logo=kubernetes) |        ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Advanced-teal?style=for-the-badge&logo=tailwind-css)         |
+|      ![Redux](https://img.shields.io/badge/Redux-Advanced-purple?style=for-the-badge&logo=redux)       |   ![Firebase](https://img.shields.io/badge/Firebase-Advanced-yellow?style=for-the-badge&logo=firebase)   |              ![Heatmap Tracking](https://img.shields.io/badge/Heatmap_Tracking-Advanced-red?style=for-the-badge)              |
+| ![GraphQL](https://img.shields.io/badge/GraphQL-Intermediate-ff69b4?style=for-the-badge&logo=graphql)  |  ![CI/CD](https://img.shields.io/badge/CI/CD-Intermediate-green?style=for-the-badge&logo=githubactions)  | ![Styled Components](https://img.shields.io/badge/Styled_Components-Advanced-pink?style=for-the-badge&logo=styled-components) |
 
-</div>
 </details>
 
 <!-- 技能图标墙 -->
-<div align="center">
+<!-- <div align="center">
   <h3>🛠️ Technologies & Tools</h3>
-  
+
   <p>
     <img src="https://skillicons.dev/icons?i=react,redux,ts,js,nodejs,firebase,docker,aws,figma,sass" />
   </p>
-</div>
+</div> -->
 
 <!-- 项目展示集 -->
 <h2>🗂 Featured Projects</h2>
@@ -134,9 +136,9 @@
 </div> -->
 
 <!-- Weather in Vancouver -->
-<h3>Current Weather in Vancouver 🌧️</h3>
+<!-- <h3>Current Weather in Vancouver 🌧️</h3>
 <p>Today, the temperature is <b>5°C</b> with <b>light rain showers</b>.<br>
-The sun rises at <b>07:56</b> and sets at <b>16:47</b>.</p>
+The sun rises at <b>07:56</b> and sets at <b>16:47</b>.</p> -->
 
 <!-- Contact Information -->
 <h3>📫 Where to find me</h3>
@@ -151,8 +153,8 @@ The sun rises at <b>07:56</b> and sets at <b>16:47</b>.</p>
 <!-- <p align="center">This <i>README</i> file is updated <b>every 3 hours</b> via GitHub Actions!</p>
 <p align="center"><img src="https://github.com/ruilinsun/ruilinsun/workflows/README%20build/badge.svg" /></p> -->
 
-<div align="center">
+<!-- <div align="center">
   <video width="300" controls>
     <source src="demo.mp4" type="video/mp4">
   </video>
-</div>
+</div> -->
