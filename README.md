@@ -64,7 +64,7 @@
             </a>
           </p>
           <p><strong>Tech Stack:</strong> ReactNative, Node.js, Firebase</p>
-          <p>BarkBuddy is an innovative social platform designed for pet lovers. The app facilitates connections between pet owners, allowing them to share stories, participate in events, and communicate through messages. It also enables the generation of customized pet images and videos.</p>
+          <p>An innovative social platform designed for pet lovers, facilitates connections by share stories, participate in events, and communicate through messages. It also enables the generation of customized pet images and videos.</p>
         </div>
       </td>
       <td width="50%">
