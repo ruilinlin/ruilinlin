@@ -79,7 +79,7 @@
               <img src="https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Store"/>
             </a>
           </p>
-          <p><strong>Tech Stack:</strong> JavaScript, Chrome Extensions API, C##</p>
+          <p><strong>Tech Stack:</strong> JavaScript, Chrome Extensions API</p>
           <p>A Chrome extension designed to enhance reading experience for ADHD users, featuring customizable text formatting, focus mode, and reading progress tracking.</p>
         </div>
       </td>
@@ -94,7 +94,7 @@
               <img src="https://img.shields.io/badge/View_Project-4e4e4e?style=for-the-badge&logo=github" alt="View Project"/>
             </a>
             <a href="https://www.youtube.com/watch?v=你的视频ID">
-              <img src="video-thumbnail.png" width="300" alt="Live Demo"/> 
+              <img src="https://img.shields.io/badge/Live_Demo-FF3850?style=for-the-badge&logo=html5" alt="Live Demo"/>
             </a>
           </p>
           <p><strong>Tech Stack:</strong> Next.js, Styled-Components, Node.js, Kubernetes, Python, Docker, AWS, mongoDB, Redis</p>
