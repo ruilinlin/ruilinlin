@@ -2,15 +2,33 @@
 
 <p>Welcome to my page! </br> I'm Ruilin Sun, a <b>Software Developer</b> from 🌏, currently residing in <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="13"/> <b>Vancouver, Canada</b>. </p>
 
-<!-- 技能概览部分 -->
-<h2>🚀 Professional Skills</h2>
+<!-- 🚀 Professional Skills -->
+<h2 align="center">🚀 Professional Skills</h2>
 
 <div align="center">
-  
-![Frontend Development](https://progress-bar.dev/90/?title=Frontend&width=500&color=4B0082)
-![AI Deployment](https://progress-bar.dev/85/?title=AI-Deploy&width=500&color=0E2F44)
-![UI Design](https://progress-bar.dev/80/?title=UI-Design&width=500&color=FF69B4)
-![Cloud Computing](https://progress-bar.dev/75/?title=Cloud-Computing&width=500&color=008080)
+
+  <table>
+    <tr>
+      <td align="center"><img src="https://img.icons8.com/ios-filled/50/4B0082/react-native.png" width="50"/><br><b>Frontend Development</b></td>
+      <td align="center"><img src="https://img.icons8.com/ios-filled/50/0E2F44/artificial-intelligence.png" width="50"/><br><b>AI Deployment</b></td>
+      <td align="center"><img src="https://img.icons8.com/ios-filled/50/FF69B4/design.png" width="50"/><br><b>UI/UX Design</b></td>
+      <td align="center"><img src="https://img.icons8.com/ios-filled/50/008080/cloud.png" width="50"/><br><b>Cloud Computing</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://progress-bar.dev/90/?title=Frontend&width=200&color=4B0082"/>
+      </td>
+      <td align="center">
+        <img src="https://progress-bar.dev/85/?title=AI-Deploy&width=200&color=0E2F44"/>
+      </td>
+      <td align="center">
+        <img src="https://progress-bar.dev/80/?title=UI-Design&width=200&color=FF69B4"/>
+      </td>
+      <td align="center">
+        <img src="https://progress-bar.dev/75/?title=Cloud-Computing&width=200&color=008080"/>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
