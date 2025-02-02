@@ -121,25 +121,120 @@
   </table>
 </div>
 
-<!-- 编码统计 -->
-<!-- <div align="center">
+<
+
+<!-- ==================== 下半部分：跨学科领域 ==================== -->
+<h2 align="center">🌐 Interdisciplinary Expertise</h2>
+
+<!-- 跨学科三板块 -->
+<div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruilinsun&layout=compact&theme=radical" alt="Programming Language Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruilinsun&theme=radical" alt="Coding Time Distribution" />
-      </td>
+      <td align="center"><img src="https://img.icons8.com/ios-filled/50/2E75B6/3d-map.png" width="50"/><br><b>Geospatial Intelligence</b></td>
+      <td align="center"><img src="https://img.icons8.com/ios-filled/50/32CD32/city-planning.png" width="50"/><br><b>Urban Computing</b></td>
+      <td align="center"><img src="https://img.icons8.com/ios-filled/50/FF6F00/bim.png" width="50"/><br><b>Architectural Tech</b></td>
     </tr>
   </table>
-</div> -->
+</div>
 
-<!-- Weather in Vancouver -->
-<!-- <h3>Current Weather in Vancouver 🌧️</h3>
-<p>Today, the temperature is <b>5°C</b> with <b>light rain showers</b>.<br>
-The sun rises at <b>07:56</b> and sets at <b>16:47</b>.</p> -->
+<!-- 跨学科项目技术栈 -->
+<details>
+<summary><b>🔧 Cross-Domain Tech Stack</b></summary>
+<div align="center">
 
+| Geospatial Development                                                                            | Urban Data Science                                                                             | Architectural Integration                                                                     |
+| ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| ![ArcGIS Pro SDK](https://img.shields.io/badge/ArcGIS_Pro_SDK-Expert-2E75B6?style=flat&logo=esri) | ![GeoPandas](https://img.shields.io/badge/GeoPandas-Advanced-3776AB?style=flat&logo=python)    | ![Revit API](https://img.shields.io/badge/Revit_API-Advanced-32CD32?style=flat&logo=autodesk) |
+| ![QGIS Plugins](https://img.shields.io/badge/QGIS_Plugins-Advanced-589632?style=flat&logo=qgis)   | ![PyTorch Geo](https://img.shields.io/badge/PyTorch_Geo-Expert-EE4C2C?style=flat&logo=pytorch) | ![IFC.js](https://img.shields.io/badge/IFC.js-Intermediate-4CAF50?style=flat)                 |
+| ![CesiumJS](https://img.shields.io/badge/CesiumJS-3D_Maps-8DD6F9?style=flat&logo=cesium)          | ![NetworkX](https://img.shields.io/badge/NetworkX-Urban_Graphs-FF6F00?style=flat)              | ![BIM](https://img.shields.io/badge/BIM_Automation-Advanced-FF7043?style=flat)                |
+
+</details>
+
+<!-- 跨学科项目展示 -->
+<h2>🏙️ Featured Urban-Tech Projects</h2>
+<div align="center">
+  <table>
+    <!-- 项目1：GIS自动化建模 -->
+    <tr>
+      <td width="50%">
+        <h3 align="center">UrbanFlow Optimizer</h3>
+        <div align="center">
+          <p>
+            <a href="#">
+              <img src="https://img.shields.io/badge/ArcGIS_Plugin-2E75B6?style=for-the-badge&logo=esri" alt="View Project"/>
+            </a>
+            <a href="#">
+              <img src="https://img.shields.io/badge/Live_Demo-FF6F00?style=for-the-badge&logo=azure-devops" alt="Live Demo"/>
+            </a>
+          </p>
+          <p><strong>Tech Stack:</strong> 
+            <img src="https://img.shields.io/badge/ArcPy-Expert-2E75B6?style=flat" alt="ArcPy"> 
+            <img src="https://img.shields.io/badge/SimPy-Advanced-3776AB?style=flat" alt="SimPy">
+            <img src="https://img.shields.io/badge/Pandas-Advanced-150458?style=flat&logo=pandas" alt="Pandas">
+          </p>
+          <p>Automated traffic modeling plugin for ArcGIS Pro, processing real-time Vancouver traffic data to generate congestion heatmaps and signal optimization plans.</p>
+        </div>
+      </td>
+
+      <!-- 项目2：机器学习风险预测 -->
+      <td width="50%">
+        <h3 align="center">FloodRisk AI</h3>
+        <div align="center">
+          <p>
+            <a href="#">
+              <img src="https://img.shields.io/badge/Python_ML-Expert-3776AB?style=for-the-badge&logo=python" alt="View Project"/>
+            </a>
+          </p>
+          <p><strong>Tech Stack:</strong>
+            <img src="https://img.shields.io/badge/Scikit_Learn-Advanced-FF6F00?style=flat&logo=scikit-learn" alt="Scikit-Learn">
+            <img src="https://img.shields.io/badge/GeoJSON-Intermediate-4CAF50?style=flat" alt="GeoJSON">
+            <img src="https://img.shields.io/badge/PostGIS-Advanced-336791?style=flat&logo=postgresql" alt="PostGIS">
+          </p>
+          <p>Machine learning pipeline predicting flood risks using Vancouver's historical climate data and urban topology analysis.</p>
+        </div>
+      </td>
+    </tr>
+
+    <!-- 项目3：3D城市建模 -->
+    <tr>
+      <td width="50%">
+        <h3 align="center">CityBuilder Pro</h3>
+        <div align="center">
+          <p>
+            <a href="#">
+              <img src="https://img.shields.io/badge/Revit_Plugin-32CD32?style=for-the-badge&logo=autodesk" alt="View Project"/>
+            </a>
+          </p>
+          <p><strong>Tech Stack:</strong>
+            <img src="https://img.shields.io/badge/C%23-Advanced-239120?style=flat&logo=c-sharp" alt="C#">
+            <img src="https://img.shields.io/badge/Three.js-Intermediate-000000?style=flat&logo=three.js" alt="Three.js">
+            <img src="https://img.shields.io/badge/CityGML-Expert-8DD6F9?style=flat" alt="CityGML">
+          </p>
+          <p>Parametric 3D city modeling tool converting CAD files to GIS-compatible 3D urban models with automated LOD generation.</p>
+        </div>
+      </td>
+
+      <!-- 项目4：公共服务优化 -->
+      <td width="50%">
+        <h3 align="center">Community Mapper</h3>
+        <div align="center">
+          <p>
+            <a href="#">
+              <img src="https://img.shields.io/badge/QGIS_Plugin-589632?style=for-the-badge&logo=qgis" alt="View Project"/>
+            </a>
+          </p>
+          <p><strong>Tech Stack:</strong>
+            <img src="https://img.shields.io/badge/Voronoi-Advanced-FF7043?style=flat" alt="Voronoi">
+            <img src="https://img.shields.io/badge/OpenStreetMap-Expert-7EBC6F?style=flat&logo=openstreetmap" alt="OSM">
+            <img src="https://img.shields.io/badge/Leaflet-Intermediate-199900?style=flat&logo=leaflet" alt="Leaflet">
+          </p>
+          <p>Public service optimization tool using spatial analysis to plan healthcare facilities distribution across Metro Vancouver.</p>
+        </div>
+      </td>
+    </tr>
+
+  </table>
+</div>
 <!-- Contact Information -->
 <h3>📫 Where to find me</h3>
 <p>
