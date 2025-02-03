@@ -129,15 +129,21 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/map.svg" width="50"/><br>
+        <svg width="50" height="50" viewBox="0 0 24 24" fill="#2E75B6">
+          <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/>
+        </svg><br>
         <b>Geospatial Intelligence</b>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/city.svg" width="50"/><br>
+        <svg width="50" height="50" viewBox="0 0 24 24" fill="#32CD32">
+          <path d="M15 11V5l-3-3-3 3v2H3v14h18V11h-6zm-8 8H5v-2h2v2zm0-4H5v-2h2v2zm0-4H5V9h2v2zm6 8h-2v-2h2v2zm0-4h-2v-2h2v2zm0-4h-2V9h2v2zm0-4h-2V5h2v2zm6 12h-2v-2h2v2zm0-4h-2v-2h2v2z"/>
+        </svg><br>
         <b>Urban Computing</b>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/building.svg" width="50"/><br>
+        <svg width="50" height="50" viewBox="0 0 24 24" fill="#FF6F00">
+          <path d="M12 7V3H2v18h20V7H12zM6 19H4v-2h2v2zm0-4H4v-2h2v2zm0-4H4V9h2v2zm0-4H4V5h2v2zm4 12H8v-2h2v2zm0-4H8v-2h2v2zm0-4H8V9h2v2zm0-4H8V5h2v2zm10 12h-8v-2h2v-2h-2v-2h2v-2h-2V9h8v10zm-2-8h-2v2h2v-2zm0 4h-2v2h2v-2z"/>
+        </svg><br>
         <b>Architectural Tech</b>
       </td>
     </tr>
@@ -165,7 +171,7 @@
       <td width="50%">
         <h3 align="center">UrbanFlow Optimizer</h3>
         <div align="center">
-          <img src="urbanflow-screenshot.png" width="300" alt="UrbanFlow Screenshot"/>
+          <!-- <img src="urbanflow-screenshot.png" width="300" alt="UrbanFlow Screenshot"/> -->
           <p>
             <a href="https://github.com/ruilinsun/urbanflow">
               <img src="https://img.shields.io/badge/View_Project-4e4e4e?style=for-the-badge&logo=github" alt="View Project"/>
@@ -181,7 +187,7 @@
       <td width="50%">
         <h3 align="center">FloodRisk AI</h3>
         <div align="center">
-          <img src="floodrisk-screenshot.png" width="300" alt="FloodRisk Screenshot"/>
+          <!-- <img src="floodrisk-screenshot.png" width="300" alt="FloodRisk Screenshot"/> -->
           <p>
             <a href="https://github.com/ruilinsun/floodrisk">
               <img src="https://img.shields.io/badge/View_Project-4e4e4e?style=for-the-badge&logo=github" alt="View Project"/>
@@ -199,7 +205,7 @@
       <td width="50%">
         <h3 align="center">CityBuilder Pro</h3>
         <div align="center">
-          <img src="citybuilder-screenshot.png" width="300" alt="CityBuilder Screenshot"/>
+          <!-- <img src="citybuilder-screenshot.png" width="300" alt="CityBuilder Screenshot"/> -->
           <p>
             <a href="https://github.com/ruilinsun/citybuilder">
               <img src="https://img.shields.io/badge/View_Project-4e4e4e?style=for-the-badge&logo=github" alt="View Project"/>
@@ -215,7 +221,7 @@
       <td width="50%">
         <h3 align="center">Community Mapper</h3>
         <div align="center">
-          <img src="mapper-screenshot.png" width="300" alt="Community Mapper Screenshot"/>
+          <!-- <img src="mapper-screenshot.png" width="300" alt="Community Mapper Screenshot"/> -->
           <p>
             <a href="https://github.com/ruilinsun/mapper">
               <img src="https://img.shields.io/badge/View_Project-4e4e4e?style=for-the-badge&logo=github" alt="View Project"/>
