@@ -129,15 +129,21 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/-Geospatial-2E75B6?style=for-the-badge&logo=google-earth&logoColor=white" width="120"/><br>
+        <svg width="50" height="50" viewBox="0 0 24 24" fill="#2E75B6">
+          <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/>
+        </svg><br>
         <b>Geospatial Intelligence</b>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/-Urban-32CD32?style=for-the-badge&logo=city&logoColor=white" width="120"/><br>
+        <svg width="50" height="50" viewBox="0 0 24 24" fill="#32CD32">
+          <path d="M15 11V5l-3-3-3 3v2H3v14h18V11h-6zm-8 8H5v-2h2v2zm0-4H5v-2h2v2zm0-4H5V9h2v2zm6 8h-2v-2h2v2zm0-4h-2v-2h2v2zm0-4H8V9h2v2zm0-4H8V5h2v2zm10 12h-8v-2h2v-2h-2v-2h2v-2h-2V9h8v10zm-2-8h-2v2h2v-2zm0 4h-2v2h2v-2z"/>
+        </svg><br>
         <b>Urban Computing</b>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/-Architecture-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white" width="120"/><br>
+        <svg width="50" height="50" viewBox="0 0 24 24" fill="#FF6F00">
+          <path d="M12 7V3H2v18h20V7H12zM6 19H4v-2h2v2zm0-4H4v-2h2v2zm0-4H4V9h2v2zm0-4H4V5h2v2zm4 12H8v-2h2v2zm0-4H8v-2h2v2zm0-4H8V9h2v2zm0-4H8V5h2v2zm10 12h-8v-2h2v-2h-2v-2h2v-2h-2V9h8v10zm-2-8h-2v2h2v-2zm0 4h-2v2h2v-2z"/>
+        </svg><br>
         <b>Architectural Tech</b>
       </td>
     </tr>
@@ -165,35 +171,32 @@
       <td width="50%">
         <h3 align="center">UrbanFlow Optimizer</h3>
         <div align="center">
+          <!-- <img src="urbanflow-screenshot.png" width="300" alt="UrbanFlow Screenshot"/> -->
           <p>
-            <a href="#">
-              <img src="https://img.shields.io/badge/ArcGIS_Plugin-2E75B6?style=for-the-badge&logo=esri" alt="View Project"/>
+            <a href="https://github.com/ruilinsun/urbanflow">
+              <img src="https://img.shields.io/badge/View_Project-4e4e4e?style=for-the-badge&logo=github" alt="View Project"/>
             </a>
-            <a href="#">
-              <img src="https://img.shields.io/badge/Live_Demo-FF6F00?style=for-the-badge&logo=azure-devops" alt="Live Demo"/>
+            <a href="https://urbanflow-demo.com">
+              <img src="https://img.shields.io/badge/Live_Demo-FF3850?style=for-the-badge&logo=html5" alt="Live Demo"/>
             </a>
           </p>
-          <p><strong>Tech Stack:</strong> 
-            <img src="https://img.shields.io/badge/ArcPy-Expert-2E75B6?style=flat" alt="ArcPy"> 
-            <img src="https://img.shields.io/badge/SimPy-Advanced-3776AB?style=flat" alt="SimPy">
-            <img src="https://img.shields.io/badge/Pandas-Advanced-150458?style=flat&logo=pandas" alt="Pandas">
-          </p>
+          <p><strong>Tech Stack:</strong> ArcPy, SimPy, Pandas</p>
           <p>Automated traffic modeling plugin for ArcGIS Pro, processing real-time Vancouver traffic data to generate congestion heatmaps and signal optimization plans.</p>
         </div>
       </td>
       <td width="50%">
         <h3 align="center">FloodRisk AI</h3>
         <div align="center">
+          <!-- <img src="floodrisk-screenshot.png" width="300" alt="FloodRisk Screenshot"/> -->
           <p>
-            <a href="#">
-              <img src="https://img.shields.io/badge/Python_ML-Expert-3776AB?style=for-the-badge&logo=python" alt="View Project"/>
+            <a href="https://github.com/ruilinsun/floodrisk">
+              <img src="https://img.shields.io/badge/View_Project-4e4e4e?style=for-the-badge&logo=github" alt="View Project"/>
+            </a>
+            <a href="https://floodrisk-demo.com">
+              <img src="https://img.shields.io/badge/Live_Demo-FF3850?style=for-the-badge&logo=html5" alt="Live Demo"/>
             </a>
           </p>
-          <p><strong>Tech Stack:</strong>
-            <img src="https://img.shields.io/badge/Scikit_Learn-Advanced-FF6F00?style=flat&logo=scikit-learn" alt="Scikit-Learn">
-            <img src="https://img.shields.io/badge/GeoJSON-Intermediate-4CAF50?style=flat" alt="GeoJSON">
-            <img src="https://img.shields.io/badge/PostGIS-Advanced-336791?style=flat&logo=postgresql" alt="PostGIS">
-          </p>
+          <p><strong>Tech Stack:</strong> Python, Scikit-Learn, PostGIS</p>
           <p>Machine learning pipeline predicting flood risks using Vancouver's historical climate data and urban topology analysis.</p>
         </div>
       </td>
@@ -202,32 +205,32 @@
       <td width="50%">
         <h3 align="center">CityBuilder Pro</h3>
         <div align="center">
+          <!-- <img src="citybuilder-screenshot.png" width="300" alt="CityBuilder Screenshot"/> -->
           <p>
-            <a href="#">
-              <img src="https://img.shields.io/badge/Revit_Plugin-32CD32?style=for-the-badge&logo=autodesk" alt="View Project"/>
+            <a href="https://github.com/ruilinsun/citybuilder">
+              <img src="https://img.shields.io/badge/View_Project-4e4e4e?style=for-the-badge&logo=github" alt="View Project"/>
+            </a>
+            <a href="https://citybuilder-demo.com">
+              <img src="https://img.shields.io/badge/Live_Demo-FF3850?style=for-the-badge&logo=html5" alt="Live Demo"/>
             </a>
           </p>
-          <p><strong>Tech Stack:</strong>
-            <img src="https://img.shields.io/badge/C%23-Advanced-239120?style=flat&logo=c-sharp" alt="C#">
-            <img src="https://img.shields.io/badge/Three.js-Intermediate-000000?style=flat&logo=three.js" alt="Three.js">
-            <img src="https://img.shields.io/badge/CityGML-Expert-8DD6F9?style=flat" alt="CityGML">
-          </p>
+          <p><strong>Tech Stack:</strong> C#, Three.js, CityGML</p>
           <p>Parametric 3D city modeling tool converting CAD files to GIS-compatible 3D urban models with automated LOD generation.</p>
         </div>
       </td>
       <td width="50%">
         <h3 align="center">Community Mapper</h3>
         <div align="center">
+          <!-- <img src="mapper-screenshot.png" width="300" alt="Community Mapper Screenshot"/> -->
           <p>
-            <a href="#">
-              <img src="https://img.shields.io/badge/QGIS_Plugin-589632?style=for-the-badge&logo=qgis" alt="View Project"/>
+            <a href="https://github.com/ruilinsun/mapper">
+              <img src="https://img.shields.io/badge/View_Project-4e4e4e?style=for-the-badge&logo=github" alt="View Project"/>
+            </a>
+            <a href="https://mapper-demo.com">
+              <img src="https://img.shields.io/badge/Live_Demo-FF3850?style=for-the-badge&logo=html5" alt="Live Demo"/>
             </a>
           </p>
-          <p><strong>Tech Stack:</strong>
-            <img src="https://img.shields.io/badge/Voronoi-Advanced-FF7043?style=flat" alt="Voronoi">
-            <img src="https://img.shields.io/badge/OpenStreetMap-Expert-7EBC6F?style=flat&logo=openstreetmap" alt="OSM">
-            <img src="https://img.shields.io/badge/Leaflet-Intermediate-199900?style=flat&logo=leaflet" alt="Leaflet">
-          </p>
+          <p><strong>Tech Stack:</strong> Python, OpenStreetMap, Leaflet</p>
           <p>Public service optimization tool using spatial analysis to plan healthcare facilities distribution across Metro Vancouver.</p>
         </div>
       </td>
