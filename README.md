@@ -126,19 +126,20 @@
 
 <!-- 跨学科三板块 -->
 <div align="center">
+  <h3>🎯 Domain Expertise</h3>
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/-Geospatial-2E75B6?style=for-the-badge&logo=google-earth&logoColor=white" width="150"/><br>
-        <b>Geospatial Intelligence</b>
+        <img src="https://skillicons.dev/icons?i=gis" width="48" height="48" alt="GIS"/><br>
+        <b>Geospatial<br>Intelligence</b>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/-Urban_Computing-32CD32?style=for-the-badge&logo=city&logoColor=white" width="150"/><br>
-        <b>Urban Computing</b>
+        <img src="https://skillicons.dev/icons?i=urbancomputing" width="48" height="48" alt="Urban Computing"/><br>
+        <b>Urban<br>Computing</b>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/-Architecture-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white" width="150"/><br>
-        <b>Architectural Tech</b>
+        <img src="https://skillicons.dev/icons?i=autocad" width="48" height="48" alt="Architecture"/><br>
+        <b>Architectural<br>Tech</b>
       </td>
     </tr>
   </table>
