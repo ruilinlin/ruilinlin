@@ -126,7 +126,6 @@
 
 <!-- 跨学科三板块 -->
 <div align="center">
-  <h3>🎯 Domain Expertise</h3>
   <table>
     <tr>
       <td align="center">
