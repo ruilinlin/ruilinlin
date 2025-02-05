@@ -59,8 +59,12 @@
             <a href="https://github.com/ruilinlin/bark_buddy">
               <img src="https://img.shields.io/badge/View_Project-4e4e4e?style=for-the-badge&logo=github" alt="View Project"/>
             </a>
-            <a href="https://ruilinsun.myportfolio.com/social-application-for-pet-owner">
-              <img src="https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+               <a href="https://chrome.google.com/webstore/detail/your-plugin-id">
+              <img src="https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Store"/>
+            </a>
+            </a>
+            <a href="https://www.youtube.com/watch?v=你的视频ID">
+              <img src="https://img.shields.io/badge/Live_Demo-FF3850?style=for-the-badge&logo=html5" alt="Live Demo"/>
             </a>
           </p>
           <p><strong>Tech Stack:</strong> ReactNative, Node.js, Firebase</p>
@@ -75,8 +79,12 @@
             <a href="https://github.com/ruilinlin/adhd-reading-plugin">
               <img src="https://img.shields.io/badge/View_Project-4e4e4e?style=for-the-badge&logo=github" alt="View Project"/>
             </a>
-            <a href="https://chrome.google.com/webstore/detail/your-plugin-id">
+               <a href="https://chrome.google.com/webstore/detail/your-plugin-id">
               <img src="https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Store"/>
+            </a>
+            </a>
+            <a href="https://www.youtube.com/watch?v=你的视频ID">
+              <img src="https://img.shields.io/badge/Live_Demo-FF3850?style=for-the-badge&logo=html5" alt="Live Demo"/>
             </a>
           </p>
           <p><strong>Tech Stack:</strong> JavaScript, Chrome Extensions API</p>
