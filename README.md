@@ -102,7 +102,7 @@
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">Multimedia Content Management System</h3>
+        <h3 align="center">Vancouver House Price Analysis System</h3>
         <div align="center">
           <!-- <img src="project-screenshot-2.png" width="300" alt="Multimedia Content Management System Screenshot"/> -->
           <p>
@@ -113,8 +113,8 @@
               <img src="https://img.shields.io/badge/Live_Demo-FF3850?style=for-the-badge&logo=html5" alt="Live Demo"/>
             </a>
           </p>
-          <p><strong>Tech Stack:</strong> React, D3.js, TypeScript,Spark, Hadoop, mySQL</p>
-          <p>Multimedia Content Management System.</p>
+          <p><strong>Tech Stack:</strong> Python, D3.js, Spark, Hadoop, mySQL</p>
+          <p>A comprehensive system for analyzing and visualizing Vancouver house price data, providing insights into market trends and property values.</p>
         </div>
       </td>
     </tr>
