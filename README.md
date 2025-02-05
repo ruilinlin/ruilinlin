@@ -92,6 +92,9 @@
           <p>
             <a href="https://github.com/ruilinlin/PetAvatarGenerator">
               <img src="https://img.shields.io/badge/View_Project-4e4e4e?style=for-the-badge&logo=github" alt="View Project"/>
+               <a href="https://chrome.google.com/webstore/detail/your-plugin-id">
+              <img src="https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Store"/>
+            </a>
             </a>
             <a href="https://www.youtube.com/watch?v=你的视频ID">
               <img src="https://img.shields.io/badge/Live_Demo-FF3850?style=for-the-badge&logo=html5" alt="Live Demo"/>
