@@ -117,7 +117,7 @@
         <div align="center">
           <!-- <img src="project-screenshot-2.png" width="300" alt="Multimedia Content Management System Screenshot"/> -->
           <p>
-            <a href="https://github.com/ruilinsun/geospatial-visualization">
+            <a href="https://github.com/ruilinlin/Vancouver-House-Price-Analysis-System">
               <img src="https://img.shields.io/badge/View_Project-4e4e4e?style=for-the-badge&logo=github" alt="View Project"/>
             </a>
             <a href="https://geospatial-viz.demo.link">
