@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Ruilin Sun, a <b>Software Developer</b> from 🌏, currently residing in <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="13"/> <b>Vancouver, Canada</b>. I have a background in both Architecture and Computer Science, and I currently work as a developer. My expertise lies in <b>frontend development</b>, <b>AI deployment</b>, and <b>cloud computing</b>.
+<p>Welcome to my page! </br> I'm Ruilin Sun, a <b>Software Developer</b> from 🌏, currently residing in <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="13"/> <b>Vancouver, Canada</b>. I have a background in both Architecture and Computer Science, and I currently work as a developer. My expertise lies in <b>software development</b>, <b>AI deployment</b>, and <b>cloud computing</b>.
 
 <!-- 🚀 Professional Skills -->
 <h2 align="center">🚀 Professional Skills</h2>
