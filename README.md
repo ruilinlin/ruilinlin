@@ -1,242 +1,191 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Ruilin Sun, a <b>Software Developer</b> from 🌏, currently residing in <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="13"/> <b>Vancouver, Canada</b>. I have a background in both Architecture and Computer Science, and I currently work as a developer. My expertise lies in <b>software development</b>, <b>AI deployment</b>, and <b>cloud computing</b>.
+<p>
+Welcome to my page! </br>
+I'm <b>Ruilin (Riley) Sun</b>, an <b>AI / Full-Stack Engineer</b> based in
+<img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="13"/> <b>Vancouver, Canada</b>.
+I take <b>LLM features from prototype to production</b> — tool-calling agents, RAG pipelines, and the full-stack apps around them.
+I hold an <b>MS in Computer Science</b> from Northeastern University, and bring an earlier background in <b>computer vision and the built environment</b> that I draw on for <b>AEC / 3D / spatial-AI</b> problems.
+</p>
 
-<!-- 🚀 Professional Skills -->
-<h2 align="center">🚀 Professional Skills</h2>
+<p>
+  <img alt="GCP Professional ML Engineer" src="https://img.shields.io/badge/GCP-Professional_ML_Engineer-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+  <img alt="GCP Associate Cloud Engineer" src="https://img.shields.io/badge/GCP-Associate_Cloud_Engineer-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+</p>
+
+<!-- 🚀 Core Expertise -->
+<h2 align="center">🚀 Core Expertise</h2>
 
 <div align="center">
-
   <table>
     <tr>
-      <td align="center"><img src="https://img.icons8.com/ios-filled/50/4B0082/react-native.png" width="50"/><br><b>Frontend Development</b></td>
-      <td align="center"><img src="https://img.icons8.com/ios-filled/50/0E2F44/artificial-intelligence.png" width="50"/><br><b>AI Deployment</b></td>
-      <td align="center"><img src="https://img.icons8.com/ios-filled/50/FF69B4/design.png" width="50"/><br><b>UI/UX Design</b></td>
-      <td align="center"><img src="https://img.icons8.com/ios-filled/50/008080/cloud.png" width="50"/><br><b>Cloud Computing</b></td>
-      <td align="center"><img src="https://img.icons8.com/ios-filled/50/FFA500/bar-chart.png" width="50"/><br><b>Data Visualization</b></td>
+      <td align="center"><img src="https://img.icons8.com/ios-filled/50/0E2F44/artificial-intelligence.png" width="50"/><br><b>AI / LLM<br>Engineering</b></td>
+      <td align="center"><img src="https://img.icons8.com/ios-filled/50/4B0082/database.png" width="50"/><br><b>Backend<br>Development</b></td>
+      <td align="center"><img src="https://img.icons8.com/ios-filled/50/1E90FF/react-native.png" width="50"/><br><b>Frontend<br>Development</b></td>
+      <td align="center"><img src="https://img.icons8.com/ios-filled/50/008080/cloud.png" width="50"/><br><b>Cloud &<br>DevOps</b></td>
+      <td align="center"><img src="https://img.icons8.com/ios-filled/50/FFA500/map.png" width="50"/><br><b>Spatial /<br>AEC AI</b></td>
     </tr>
   </table>
-
 </div>
 
 <!-- 详细技能树 -->
-<p> Here is my tech stack details: </p>
+<p>Here are my tech stack details:</p>
 <details>
 <summary><b>💻 Tech Stack Details</b></summary>
 
 <div align="center">
 
-|                                          Frontend Development                                          |                                              Cloud & DevOps                                              |                                                         UI/UX Design                                                          |
-| :----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
-|        ![React](https://img.shields.io/badge/React-Expert-blue?style=for-the-badge&logo=react)         |       ![AWS](https://img.shields.io/badge/AWS-Advanced-orange?style=for-the-badge&logo=amazon-aws)       |                  ![Figma](https://img.shields.io/badge/Figma-Advanced-purple?style=for-the-badge&logo=figma)                  |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-Expert-blue?style=for-the-badge&logo=typescript) |       ![Docker](https://img.shields.io/badge/Docker-Advanced-blue?style=for-the-badge&logo=docker)       |          ![Material UI](https://img.shields.io/badge/Material_UI-Advanced-deepskyblue?style=for-the-badge&logo=mui)           |
-|     ![Next.js](https://img.shields.io/badge/Next.js-Expert-black?style=for-the-badge&logo=next.js)     | ![Kubernetes](https://img.shields.io/badge/Kubernetes-Advanced-blue?style=for-the-badge&logo=kubernetes) |        ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Advanced-teal?style=for-the-badge&logo=tailwind-css)         |
-|      ![Redux](https://img.shields.io/badge/Redux-Advanced-purple?style=for-the-badge&logo=redux)       |   ![Firebase](https://img.shields.io/badge/Firebase-Advanced-yellow?style=for-the-badge&logo=firebase)   |              ![Heatmap Tracking](https://img.shields.io/badge/Heatmap_Tracking-Advanced-red?style=for-the-badge)              |
-| ![GraphQL](https://img.shields.io/badge/GraphQL-Intermediate-ff69b4?style=for-the-badge&logo=graphql)  |  ![CI/CD](https://img.shields.io/badge/CI/CD-Intermediate-green?style=for-the-badge&logo=githubactions)  | ![Styled Components](https://img.shields.io/badge/Styled_Components-Advanced-pink?style=for-the-badge&logo=styled-components) |
+| AI / LLM Engineering | Backend | Frontend | Cloud & DevOps |
+| :---: | :---: | :---: | :---: |
+| ![LangGraph](https://img.shields.io/badge/LangGraph-Advanced-1C3C3C?style=for-the-badge) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-Expert-blue?style=for-the-badge&logo=react) | ![GCP](https://img.shields.io/badge/GCP-Advanced-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) |
+| ![RAG](https://img.shields.io/badge/RAG-Advanced-FF6F00?style=for-the-badge) | ![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-Expert-blue?style=for-the-badge&logo=typescript) | ![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![pgvector](https://img.shields.io/badge/pgvector-Advanced-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-Advanced-black?style=for-the-badge&logo=next.js) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-Advanced-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
+| ![Tool Calling](https://img.shields.io/badge/Tool_Calling-Advanced-6E40C9?style=for-the-badge) | ![REST APIs](https://img.shields.io/badge/REST_APIs-Advanced-005571?style=for-the-badge) | ![Redux](https://img.shields.io/badge/Redux-Advanced-764ABC?style=for-the-badge&logo=redux) | ![CI/CD](https://img.shields.io/badge/CI/CD-Intermediate-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
+| ![LLM Eval](https://img.shields.io/badge/LLM_Evaluation-Advanced-00897B?style=for-the-badge) | ![GraphQL](https://img.shields.io/badge/GraphQL-Intermediate-E10098?style=for-the-badge&logo=graphql) | ![Tailwind](https://img.shields.io/badge/Tailwind-Advanced-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) | ![Vertex AI](https://img.shields.io/badge/Vertex_AI-Intermediate-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) |
 
+</div>
 </details>
-
-<!-- 技能图标墙 -->
-<!-- <div align="center">
-  <h3>🛠️ Technologies & Tools</h3>
-
-  <p>
-    <img src="https://skillicons.dev/icons?i=react,redux,ts,js,nodejs,firebase,docker,aws,figma,sass" />
-  </p>
-</div> -->
 
 <!-- 项目展示集 -->
 <h2>🗂 Featured Projects</h2>
 
 <div align="center">
   <table>
+
+    <!-- ===== 1. 旗舰 AI 项目（待补充，建设中）===== -->
     <tr>
       <td width="50%">
-        <h3 align="center">Social Application for Pet Owners</h3>
+        <h3 align="center">🤖 LangGraph Document-Processing Agent  <sub><i>(in progress)</i></sub></h3>
         <div align="center">
-          <!-- <img src="project-screenshot.png" width="300" alt="Pet Social App Screenshot"/> -->
+          <!-- TODO: <img src="docagent-demo.gif" width="320" alt="Doc Agent demo"/> -->
           <p>
-            <a href="https://github.com/ruilinlin/bark_buddy">
+            <a href="https://github.com/ruilinlin/langgraph-doc-agent">
               <img src="https://img.shields.io/badge/View_Project-4e4e4e?style=for-the-badge&logo=github" alt="View Project"/>
             </a>
-               <a href="https://chrome.google.com/webstore/detail/your-plugin-id">
-              <img src="https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Store"/>
-            </a>
-            </a>
-            <a href="https://www.youtube.com/watch?v=你的视频ID">
+            <a href="#">
               <img src="https://img.shields.io/badge/Live_Demo-FF3850?style=for-the-badge&logo=html5" alt="Live Demo"/>
             </a>
           </p>
-          <p><strong>Tech Stack:</strong> ReactNative, Node.js, Firebase</p>
-          <p>An innovative social platform designed for pet lovers, facilitates connections by share stories, participate in events, and communicate through messages. It also enables the generation of customized pet images and videos.</p>
+          <p><strong>Tech Stack:</strong> Python, LangGraph, RAG, pgvector, FastAPI</p>
+          <p><!-- TODO: 一句话介绍。例：A multi-step agent that ingests construction / engineering documents, retrieves over a pgvector store, and answers questions with tool calls and source citations. --></p>
         </div>
       </td>
+
+      <!-- ===== 2. ADHD ProReading（升级：加 LLM 功能）===== -->
       <td width="50%">
-        <h3 align="center">ADHD ProReading Chrome Plugin</h3>
+        <h3 align="center">📖 ADHD ProReading Plugin</h3>
         <div align="center">
-          <!-- <img src="adhd-plugin-screenshot.png" width="300" alt="ADHD ProReading Plugin Screenshot"/> -->
+          <!-- TODO: <img src="adhd-plugin-screenshot.png" width="320"/> -->
           <p>
             <a href="https://github.com/ruilinlin/adhd-reading-plugin">
               <img src="https://img.shields.io/badge/View_Project-4e4e4e?style=for-the-badge&logo=github" alt="View Project"/>
             </a>
-               <a href="https://chrome.google.com/webstore/detail/your-plugin-id">
-              <img src="https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Store"/>
+            <a href="#">
+              <img src="https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Store"/>
             </a>
-            </a>
-            <a href="https://www.youtube.com/watch?v=你的视频ID">
+            <a href="#">
               <img src="https://img.shields.io/badge/Live_Demo-FF3850?style=for-the-badge&logo=html5" alt="Live Demo"/>
             </a>
           </p>
-          <p><strong>Tech Stack:</strong> JavaScript, Chrome Extensions API</p>
-          <p>A Chrome extension designed to enhance reading experience for ADHD users, featuring customizable text formatting, focus mode, and reading progress tracking.</p>
+          <p><strong>Tech Stack:</strong> JavaScript, Chrome Extensions API<!-- TODO: + LLM 摘要/难词解释 --></p>
+          <p>A Chrome extension that improves reading comprehension for ADHD users — customizable formatting, focus mode, and progress tracking.<!-- TODO: 若加了 LLM 功能，在此补一句 --></p>
         </div>
       </td>
     </tr>
+
     <tr>
+      <!-- ===== 3. bark_buddy（全栈代表）===== -->
       <td width="50%">
-        <h3 align="center">Petavator Customize Website</h3>
+        <h3 align="center">🐾 bark_buddy — Pet Social App</h3>
         <div align="center">
-          <!-- <img src="petavator-screenshot.png" width="300" alt="Petavator Customize Screenshot"/> -->
+          <!-- TODO: <img src="barkbuddy-screenshot.png" width="320"/> -->
           <p>
-            <a href="https://github.com/ruilinlin/PetAvatarGenerator">
+            <a href="https://github.com/ruilinlin/bark_buddy">
               <img src="https://img.shields.io/badge/View_Project-4e4e4e?style=for-the-badge&logo=github" alt="View Project"/>
-               <a href="https://chrome.google.com/webstore/detail/your-plugin-id">
-              <img src="https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Store"/>
             </a>
-            </a>
-            <a href="https://www.youtube.com/watch?v=你的视频ID">
+            <a href="#">
               <img src="https://img.shields.io/badge/Live_Demo-FF3850?style=for-the-badge&logo=html5" alt="Live Demo"/>
             </a>
           </p>
-          <p><strong>Tech Stack:</strong> Next.js, Styled-Components, Node.js, Kubernetes, Python, Docker, AWS, mongoDB, Redis</p>
-          <p>A sophisticated AI-powered platform for generating personalized pet avatars using state-of-the-art diffusion models.</p>
+          <p><strong>Tech Stack:</strong> React Native, Node.js, Firebase</p>
+          <p>A full-stack social platform for pet owners — share stories, join events, and message, with AI-generated pet images and videos.</p>
         </div>
       </td>
+
+      <!-- ===== 4. 占位：第二个 AI / 全栈项目（待补充）===== -->
       <td width="50%">
-        <h3 align="center">Vancouver House Price Analysis System</h3>
+        <h3 align="center">✨ [Your next AI / full-stack project]</h3>
         <div align="center">
-          <!-- <img src="project-screenshot-2.png" width="300" alt="Multimedia Content Management System Screenshot"/> -->
+          <!-- TODO: 补一个 AI/全栈项目；比如 RAG-from-scratch + eval，或一个 agent 小工具 -->
           <p>
-            <a href="https://github.com/ruilinlin/Vancouver-House-Price-Analysis-System">
+            <a href="#">
               <img src="https://img.shields.io/badge/View_Project-4e4e4e?style=for-the-badge&logo=github" alt="View Project"/>
             </a>
-            <a href="https://geospatial-viz.demo.link">
-              <img src="https://img.shields.io/badge/Live_Demo-FF3850?style=for-the-badge&logo=html5" alt="Live Demo"/>
-            </a>
           </p>
-          <p><strong>Tech Stack:</strong> Python, D3.js, Spark, Hadoop, mySQL</p>
-          <p>A comprehensive system for analyzing and visualizing Vancouver house price data, providing insights into market trends and property values.</p>
+          <p><strong>Tech Stack:</strong> <!-- TODO --></p>
+          <p><!-- TODO: 一句话介绍 --></p>
         </div>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- ==================== 下半部分：跨学科领域 ==================== -->
-<h2 align="center">🌐 Interdisciplinary Expertise</h2>
+<!-- ==================== 差异化：跨学科 / AEC & 空间 AI ==================== -->
+<h2 align="center">🌐 Interdisciplinary — Spatial & AEC AI</h2>
 
-<!-- 跨学科三板块 -->
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=gis" width="48" height="48" alt="GIS"/><br>
-        <b>Geospatial<br>Intelligence</b>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=urbancomputing" width="48" height="48" alt="Urban Computing"/><br>
-        <b>Urban<br>Computing</b>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=autocad" width="48" height="48" alt="Architecture"/><br>
-        <b>Architectural<br>Tech</b>
-      </td>
+      <td align="center">🗺️<br><b>Geospatial<br>Intelligence</b></td>
+      <td align="center">🏙️<br><b>Urban<br>Computing</b></td>
+      <td align="center">🏗️<br><b>Architectural<br>Tech (BIM/CAD)</b></td>
     </tr>
   </table>
 </div>
 
-<!-- 跨学科项目技术栈 -->
 <details>
 <summary><b>🔧 Cross-Domain Tech Stack</b></summary>
 <div align="center">
 
-| Geospatial Development                                                                            | Urban Data Science                                                                             | Architectural Integration                                                                     |
-| ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| ![ArcGIS Pro SDK](https://img.shields.io/badge/ArcGIS_Pro_SDK-Expert-2E75B6?style=flat&logo=esri) | ![GeoPandas](https://img.shields.io/badge/GeoPandas-Advanced-3776AB?style=flat&logo=python)    | ![Revit API](https://img.shields.io/badge/Revit_API-Advanced-32CD32?style=flat&logo=autodesk) |
-| ![QGIS Plugins](https://img.shields.io/badge/QGIS_Plugins-Advanced-589632?style=flat&logo=qgis)   | ![PyTorch Geo](https://img.shields.io/badge/PyTorch_Geo-Expert-EE4C2C?style=flat&logo=pytorch) | ![IFC.js](https://img.shields.io/badge/IFC.js-Intermediate-4CAF50?style=flat)                 |
-| ![CesiumJS](https://img.shields.io/badge/CesiumJS-3D_Maps-8DD6F9?style=flat&logo=cesium)          | ![NetworkX](https://img.shields.io/badge/NetworkX-Urban_Graphs-FF6F00?style=flat)              | ![BIM](https://img.shields.io/badge/BIM_Automation-Advanced-FF7043?style=flat)                |
+| Geospatial | Urban Data Science | Architectural Integration |
+| :---: | :---: | :---: |
+| ![GeoPandas](https://img.shields.io/badge/GeoPandas-Advanced-3776AB?style=flat&logo=python&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-Advanced-F7931E?style=flat&logo=scikitlearn&logoColor=white) | ![Revit API](https://img.shields.io/badge/Revit_API-Intermediate-32CD32?style=flat&logo=autodesk&logoColor=white) |
+| ![PostGIS](https://img.shields.io/badge/PostGIS-Advanced-336791?style=flat&logo=postgresql&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-EE4C2C?style=flat&logo=pytorch&logoColor=white) | ![Three.js](https://img.shields.io/badge/Three.js-Intermediate-000000?style=flat&logo=three.js&logoColor=white) |
+| ![Leaflet](https://img.shields.io/badge/Leaflet-Advanced-199900?style=flat&logo=leaflet&logoColor=white) | ![NetworkX](https://img.shields.io/badge/NetworkX-Intermediate-FF6F00?style=flat) | ![CityGML](https://img.shields.io/badge/CityGML-Intermediate-FF7043?style=flat) |
 
+</div>
 </details>
 
-<!-- 跨学科项目展示 -->
-<h2>🏙️ Featured Urban-Tech Projects</h2>
 <div align="center">
   <table>
+    <!-- ===== FloodRisk：最像 AI/ML 的差异化项目 ===== -->
     <tr>
       <td width="50%">
-        <h3 align="center">UrbanFlow Optimizer</h3>
+        <h3 align="center">🌊 FloodRisk AI</h3>
         <div align="center">
-          <!-- <img src="urbanflow-screenshot.png" width="300" alt="UrbanFlow Screenshot"/> -->
-          <p>
-            <a href="https://github.com/ruilinsun/urbanflow">
-              <img src="https://img.shields.io/badge/View_Project-4e4e4e?style=for-the-badge&logo=github" alt="View Project"/>
-            </a>
-            <a href="https://urbanflow-demo.com">
-              <img src="https://img.shields.io/badge/Live_Demo-FF3850?style=for-the-badge&logo=html5" alt="Live Demo"/>
-            </a>
-          </p>
-          <p><strong>Tech Stack:</strong> ArcPy, SimPy, Pandas</p>
-          <p>Automated traffic modeling plugin for ArcGIS Pro, processing real-time Vancouver traffic data to generate congestion heatmaps and signal optimization plans.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">FloodRisk AI</h3>
-        <div align="center">
-          <!-- <img src="floodrisk-screenshot.png" width="300" alt="FloodRisk Screenshot"/> -->
+          <!-- TODO: <img src="floodrisk-screenshot.png" width="320"/> -->
           <p>
             <a href="https://github.com/ruilinsun/floodrisk">
               <img src="https://img.shields.io/badge/View_Project-4e4e4e?style=for-the-badge&logo=github" alt="View Project"/>
             </a>
-            <a href="https://floodrisk-demo.com">
-              <img src="https://img.shields.io/badge/Live_Demo-FF3850?style=for-the-badge&logo=html5" alt="Live Demo"/>
-            </a>
           </p>
-          <p><strong>Tech Stack:</strong> Python, Scikit-Learn, PostGIS</p>
-          <p>Machine learning pipeline predicting flood risks using Vancouver's historical climate data and urban topology analysis.</p>
+          <p><strong>Tech Stack:</strong> Python, scikit-learn, PostGIS</p>
+          <p>An ML pipeline predicting flood risk from Vancouver's historical climate data and urban topology.</p>
         </div>
       </td>
-    </tr>
-    <tr>
+
+      <!-- ===== CityBuilder：AEC / 3D 跨界，投 Autodesk 时很值 ===== -->
       <td width="50%">
-        <h3 align="center">CityBuilder Pro</h3>
+        <h3 align="center">🏗️ CityBuilder</h3>
         <div align="center">
-          <!-- <img src="citybuilder-screenshot.png" width="300" alt="CityBuilder Screenshot"/> -->
+          <!-- TODO: <img src="citybuilder-screenshot.png" width="320"/> -->
           <p>
             <a href="https://github.com/ruilinsun/citybuilder">
               <img src="https://img.shields.io/badge/View_Project-4e4e4e?style=for-the-badge&logo=github" alt="View Project"/>
             </a>
-            <a href="https://citybuilder-demo.com">
-              <img src="https://img.shields.io/badge/Live_Demo-FF3850?style=for-the-badge&logo=html5" alt="Live Demo"/>
-            </a>
           </p>
           <p><strong>Tech Stack:</strong> C#, Three.js, CityGML</p>
-          <p>Parametric 3D city modeling tool converting CAD files to GIS-compatible 3D urban models with automated LOD generation.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Community Mapper</h3>
-        <div align="center">
-          <!-- <img src="mapper-screenshot.png" width="300" alt="Community Mapper Screenshot"/> -->
-          <p>
-            <a href="https://github.com/ruilinsun/mapper">
-              <img src="https://img.shields.io/badge/View_Project-4e4e4e?style=for-the-badge&logo=github" alt="View Project"/>
-            </a>
-            <a href="https://mapper-demo.com">
-              <img src="https://img.shields.io/badge/Live_Demo-FF3850?style=for-the-badge&logo=html5" alt="Live Demo"/>
-            </a>
-          </p>
-          <p><strong>Tech Stack:</strong> Python, OpenStreetMap, Leaflet</p>
-          <p>Public service optimization tool using spatial analysis to plan healthcare facilities distribution across Metro Vancouver.</p>
+          <p>Converts CAD files into GIS-compatible 3D urban models with automated LOD generation.</p>
         </div>
       </td>
     </tr>
@@ -246,18 +195,12 @@
 <!-- Contact Information -->
 <h3>📫 Where to find me</h3>
 <p>
-  <a href="https://github.com/ruilinsun"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white"/></a>
+  <!-- TODO: 确认用户名统一（ruilinlin vs ruilinsun），把下面链接改成你主用的那个 -->
+  <a href="https://github.com/ruilinlin"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white"/></a>
   <a href="https://linkedin.com/in/ruilinsun"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
-  <a href="https://ruilinsun.dev"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-F24E1E?logo=figma&logoColor=white"/></a>
+  <a href="#"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-F24E1E?logo=aboutdotme&logoColor=white"/></a>
+  <a href="mailto:garrolinlin@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
-
-<!-- <p align="center">This <i>README</i> file is updated <b>every 3 hours</b> via GitHub Actions!</p>
-<p align="center"><img src="https://github.com/ruilinsun/ruilinsun/workflows/README%20build/badge.svg" /></p> -->
-
-<!-- <div align="center">
-  <video width="300" controls>
-    <source src="demo.mp4" type="video/mp4">
-  </video>
-</div> -->
+<p align="center"><i>Open to AI Engineer / Software Engineer roles in Vancouver or remote in Canada.</i></p>
